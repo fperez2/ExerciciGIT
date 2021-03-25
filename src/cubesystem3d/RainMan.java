@@ -17,7 +17,10 @@ public class RainMan {
             int i=0;
             i++;
 			
+
 			//marc pringao
+			String s = "tus muertos"
+
     }
 
     public int getDay() {
