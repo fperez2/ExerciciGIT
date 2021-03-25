@@ -16,6 +16,8 @@ public class RainMan {
             // Hola bon dia
             int i=0;
             i++;
+			
+			String s = "tus muertos"
     }
 
     public int getDay() {
